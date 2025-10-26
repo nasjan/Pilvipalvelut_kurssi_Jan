@@ -1,15 +1,18 @@
+---
+layout: default
+title: Viikko 1
+---
 Viikko 1
 Pvm. 22.10.2025
 
-Tavoite
-Luoda GitHub Pages -sivusto ja uusi HTML-sivu
+<a href="index.html">GitHub Pages -sivusto ja uusi HTML-sivu</a>
 
-Työvaiheet
+Työvaiheet:
 
-Perustin uuden GitHub-repositorion kurssia varten.
+* Perustin uuden GitHub-repositorion kurssia varten.
 
-Loin HTML ja CSS tiedostot
+* Loin HTML ja CSS tiedostot
 
-Aktivoin GitHub Pagesin asetuksista ja valitsin päähaaran julkaisulähteeksi.
+* Aktivoin GitHub Pagesin asetuksista ja valitsin päähaaran julkaisulähteeksi.
 
-Jaoin linkin Teamsiin.
+* Jaoin linkin Teamsiin.
