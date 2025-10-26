@@ -1,11 +1,16 @@
-$sidebar-color: #000000;          // musta sivupalkki
-$sidebar-text-color: #e0e0e0;     // vaalea teksti
-$nav-link-color: #ffffff;         // linkit valkoiseksi
-$nav-link-hover-color: #00bfff;   // hover-sininen
-$nav-child-link-color: #c0c0c0;   // alemman tason linkit
-$nav-child-link-hover-color: #00bfff;
-
-
-$body-background-color: #f4f4f4;
-$body-text-color: #0b0d12;
-$link-color: #007bff;
+$color-scheme: dark;
+$body-background-color: $grey-lt-000;
+$body-heading-color: $grey-lt-000;
+$body-text-color: $grey-lt-300;
+$link-color: $blue-000;
+$nav-child-link-color: $grey-dk-000;
+$sidebar-color: $grey-dk-200;
+$base-button-color: $grey-dk-250;
+$btn-primary-color: $blue-200;
+$code-background-color: #31343f; // OneDarkJekyll default for syntax-one-dark-vivid
+$code-linenumber-color: #dee2f7; // OneDarkJekyll .nf for syntax-one-dark-vivid
+$feedback-color: darken($sidebar-color, 3%);
+$table-background-color: $grey-dk-250;
+$search-background-color: $grey-dk-250;
+$search-result-preview-color: $grey-dk-000;
+$border-color: $grey-dk-200;
