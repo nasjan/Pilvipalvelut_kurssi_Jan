@@ -5,7 +5,7 @@ title: Etusivu
 
 # Tervetuloa
 
-Tämä on kurssisivuni.
+Tältä sivustolta löydät kurssitehtäväni
 
 ## Tehtäväpalautukset
 - [Viikko 1](Viikko%201/index.html)
