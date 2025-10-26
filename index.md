@@ -7,8 +7,8 @@ title: Etusivu
 
 Tämä on kurssisivuni.
 
-## Tehtävät
-- [Viikko 1](/Viikko%201/index.html)
+## Tehtäväpalautukset
+- [Viikko 1](Viikko%201/index.html)
 - [Viikko 2]
 
 
