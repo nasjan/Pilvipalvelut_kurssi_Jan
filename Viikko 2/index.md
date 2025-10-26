@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jekyll sivuston automatisointi
+title: Viikko 2
 ---
 
 Lyhyt kirjoitus
