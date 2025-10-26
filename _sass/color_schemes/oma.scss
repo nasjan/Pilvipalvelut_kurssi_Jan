@@ -1,4 +1,13 @@
-$body-background-color: $grey-lt-000;
-$link-color: $blue-300;
-$sidebar-color: $grey-dk-000;
-$body-text-color: $grey-dk-250;
+
+$sidebar-color: #000000;          // musta sivupalkki
+$nav-width: 260px;
+$sidebar-text-color: #e0e0e0;     // vaalea teksti
+$nav-link-color: #ffffff;         // linkit valkoiseksi
+$nav-link-hover-color: #00bfff;   // hover-sininen
+$nav-child-link-color: #c0c0c0;   // alemman tason linkit
+$nav-child-link-hover-color: #00bfff;
+
+
+$body-background-color: #f4f4f4;
+$body-text-color: #0b0d12;
+$link-color: #007bff;
