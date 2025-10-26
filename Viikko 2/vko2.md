@@ -3,4 +3,4 @@ layout: default
 title: Viikko 2
 ---
 
-Lyhyt kirjoitus
+2.3 Lyhyt kirjoitus
