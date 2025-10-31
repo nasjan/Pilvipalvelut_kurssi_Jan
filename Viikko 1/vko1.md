@@ -2,7 +2,7 @@
 layout: default
 title: Viikko 1
 ---
-Viikko 1
+# Viikko 1
 Pvm. 22.10.2025
 
 <a href="index.html" target="_blank" rel="noopener noreferrer">GitHub Pages -sivusto ja uusi HTML-sivu</a>
