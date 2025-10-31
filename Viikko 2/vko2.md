@@ -2,6 +2,9 @@
 layout: default
 title: Viikko 2
 ---
+Viikko 2
+Tehtävä: Lyhyt kirjoitus
+Pvm. 31.10.2025
 
 2.3 __Jekyll-sivuston julkaisu voidaan automatisoida GitHub Actionsilla.__ Kun uusi commit tehdään main-haaraan, GitHubin pilvipalvelu käynnistää työnkulun (workflown), joka rakentaa sivuston Jekyllillä ja julkaisee sen automaattisesti GitHub Pagesiin. Tämä vähentää manuaalista työtä ja varmistaa, että sivu pysyy aina ajan tasalla.
 
