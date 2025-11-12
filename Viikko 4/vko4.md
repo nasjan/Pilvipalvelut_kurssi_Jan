@@ -5,7 +5,7 @@ title: Viikko 4
 # Viikko 4
 Pvm. 12.11.2025
 
-<a href="./app/" target="_blank" rel="noopener noreferrer">Vite + React web-sovellus</a>
+<a href="./app/" target="_blank" rel="noopener noreferrer">Web-sovellus - Firebase login</a>
 
 Työvaiheet:
 
