@@ -11,9 +11,9 @@ Työvaiheet:
 
 * Asensin Firebase CLI:n ja Firebase Tools -paketin paikallisesti (npm install firebase firebase-tools).
 
-* Loin Firebase-projektin ja otimme käyttöön Authentication-osion (Email / Password).
+* Loin Firebase-projektin ja otin käyttöön Authentication-osion (Email / Password).
 
-* Loin sovellukseen uuden tiedoston firebaseConfig.ts, johon määriteltiin projektin konfiguraatio.
+* Loin sovellukseen uuden tiedoston firebaseConfig.ts, johon määrittelin projektin konfiguraation.
 
 * Rakensin uuden LoginForm.tsx-komponentin, joka sisältää sähköposti- ja salasanakentät sekä painikkeet kirjautumiseen ja uuden käyttäjän luomiseen.
 
