@@ -10,7 +10,8 @@ Pvm. 28.11.2025
 
 Työvaiheet:
 
-* Otin käyttöön Firebase-projektin ja lisäsin Firestore-tietokannan
+* Otin käyttöön Firebase-projektin ja lisäsin Firestore-tietokannan.
 * Loin Firestoreen oman products-collectionin tietojen tallentamista varten.
-* Rakensin koodin, joka yhdistää firestoreen, kuuntelee kirjautumistilaa, lisää tuotteita tietokantaan ja lukee tuotteet ja näyttää ne realiajassa
+* Rakensin koodin, joka yhdistää firestoreen, kuuntelee kirjautumistilaa, lisää tuotteita tietokantaan ja lukee tuotteet ja näyttää ne realiajassa.
 * Tyylittelin lopuksi hieman CSS ja kokeilin erilaisia toimintoja.
+* Tuotteiden katselu ja niiden lisääminen onnistuu vain kirjautumalla sisään.
