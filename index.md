@@ -13,5 +13,6 @@ Tältä sivustolta löydät kurssitehtäväni
 - [Viikko 3](Viikko%203/vko3.html)
 - [Viikko 4](Viikko%204/vko4.html)
 - [Viikko 5](Viikko%205/vko5.html)
+- [Viikko 6](Viikko%206/vko6.html)
 
 
