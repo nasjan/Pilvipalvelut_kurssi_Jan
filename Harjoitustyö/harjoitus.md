@@ -7,12 +7,6 @@ Pvm. 14.12.2025
 
 <a href="./app/" target="_blank" rel="noopener noreferrer">Makroni - Web-sovellus</a>
 
-Kirjautuminen:
-
-Sähköposti: haaga-helia@makroni.fi
-Salasana: Makroni2025
-
-
 Makroni web-sovellus - Raportti
 
 ## 1. Sovelluksen kuvaus ja toteutus
@@ -78,7 +72,7 @@ Sivujen latautumisaikaa mitattiin Google Lighthouse -työkalulla.
 
 **Mobiili (PageSpeed Insights):**
 
-![PageSpeed Insights - Desktop](./mobiilipage.png)
+![PageSpeed Insights - Mobiili](./mobiilipage.png)
 
 
 - Tehokkuus: 99  
@@ -88,7 +82,7 @@ Sivujen latautumisaikaa mitattiin Google Lighthouse -työkalulla.
 
 Lisäksi koko sovelluksen suorituskykyä testattiin Chrome DevTools Performance -työkalulla nauhoittamalla sovelluksen käyttöä.
 
-![PageSpeed Insights - Desktop](./sovelluksen_kaytto.png)
+![PageSpeed Insights - Record-mittaus](./sovelluksen_kaytto.png)
 
 Mittauksen aikana suoritettiin tyypillisiä käyttäjätoimintoja: ruoka-aineiden lisääminen, aterioiden tarkastelu, sivujen välinen navigointi sekä uloskirjautuminen. Mittausjakson kesto oli noin 37 sekuntia. JavaScriptin suoritus vei noin 2,48 sekuntia, renderöinti noin 157 ms ja piirtäminen noin 85 ms.
 
