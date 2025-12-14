@@ -19,7 +19,7 @@ Web-sovelluksen toteutuksessa on käytetty Viteä, Reactia ja Firebasea. Käytt�
 
 ## 2. Käytettävyys ja Nielsenin heuristiikat
 
-Käytettävyyttä arvioitiin Nielsenin heuristiikkojen pohjalta käyttäjätestauksella. Sovellusta testasi yhteensä seitsemän henkilöä (ikähaarukka 25–55 vuotta, miehiä ja naisia).
+Käytettävyyttä arvioitiin Nielsenin heuristiikkojen pohjalta käyttäjätestauksella. Sovellusta testasi yhteensä seitsemän henkilöä (ikähaarukka 25-55 vuotta, miehiä ja naisia).
 
 Kaikkien testaajien mielestä sovelluksen idea ja navigaatio olivat selkeitä. Käyttäjät osasivat siirtyä eri sivujen välillä ilman erillistä ohjeistusta ja ymmärsivät nopeasti sovelluksen perustoimintalogiikan. Jokaiselta sivulta on mahdollista navigoida muille sivuille sekä sivukohtaisilla painikkeilla että yhteisellä yläreunan navigaatiopalkilla, josta näkee myös aktiivisen sivun.
 
