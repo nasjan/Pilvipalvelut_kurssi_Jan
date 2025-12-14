@@ -8,7 +8,7 @@ Pvm. 14.12.2025
 <a href="./app/" target="_blank" rel="noopener noreferrer">Makroni - Web-sovellus</a>
 
 
-Harjoitustyöraportti – Makroni
+Makroni web-sovellus - Raportti
 
 ## 1. Sovelluksen kuvaus ja toteutus
 
